@@ -19,7 +19,8 @@ tryhackme/
   │   └── notes.md
   ├── networking/
   │   └── notes.md
-'''
+...
+```
 
 ## Linux Essential Commands
 
