@@ -21,7 +21,7 @@ tryhackme/
   │   └── notes.md
 '''
 ## Linux Essential Commands
-'''bash
+```bash
 
 ### File & Directory Management
 - `ls` (list files and directories)
