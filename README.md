@@ -21,8 +21,8 @@ tryhackme/
   │   └── notes.md
 '''
 ## Linux Essential Commands
-```bash
 
+```bash
 ### File & Directory Management
 - `ls` (list files and directories)
 - `cd` (change directory)
@@ -111,3 +111,5 @@ tryhackme/
 - `777` = full permissions
 - `755` = common executable permissions
 - `644` = common file permissions
+
+```
